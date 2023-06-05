@@ -1,0 +1,5 @@
+State,NextState0,Action0,Movation0,NextState1,Action1,Movation1
+0,0,0,r,1,1,r
+1,2,1,r,1,1,r
+2,3,0,l,2,1,r
+3,3,0,e,3,0,s
