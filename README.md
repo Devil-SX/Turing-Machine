@@ -21,7 +21,7 @@ write table in `.csv` file
 
 write tape in file (like [this](./tape.txt)) or use list are both OK
 
-# Start yout turing machine
+# Start your turing machine
 
 There is an example
 
