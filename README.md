@@ -1,4 +1,7 @@
-# Turing Machine Implementation In Python
+<h1 align="center">
+    A Turing Machine Implementation In Python
+    <br>
+</h1>
 
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
